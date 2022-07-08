@@ -1,2 +1,2 @@
-# ashim_izzuddin.github.io
+# ashim_izzuddi
 This is repository for my CV
